@@ -1,0 +1,9 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "F# (.NET Core 2.1)",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"Ionide.Ionide-fsharp",
+		"ms-vscode.csharp"
+	]
+}
